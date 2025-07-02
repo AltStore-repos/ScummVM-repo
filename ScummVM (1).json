@@ -1,0 +1,54 @@
+{
+  "name": "ScummVM",
+  "subtitle": "An engine to run classic point and click games",
+  "description": "[INSERT TEXT HERE]",
+  "iconURL": "https://i.imgur.com/FezTm6h.png",
+  "website": "https://www.scummvm.org/",
+  "patreonURL": "https://www.patreon.com/coronadiaries?utm_campaign=creatorshare_fan",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/QqhwCPw.png",
+  "apps": [
+    {
+      "name": "ScummVM",
+      "bundleIdentifier": "org.scummvm.app",
+      "marketplaceID": "",
+      "developerName": "ScummVM Team",
+      "subtitle": "Scumm and other point-and-click games engine",
+      "localizedDescription": "Play classic Point and Click games, through ScummVM",
+      "iconURL": "https://i.imgur.com/xvXmEeR.png",
+      "tintColor": "#6156e2",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.9.1",
+          "date": "2025-05-25T02:55:00+03:00",
+          "localizedDescription": "iOS/iPadOS port:\nFixed Fluidsynth soundfont existence check failing with sandboxed filesystems.\n\n(full: https://downloads.scummvm.org/frs/scummvm/2.9.1/ReleaseNotes.html)",
+          "downloadURL": "https://downloads.scummvm.org/frs/scummvm/2.9.1/scummvm-2.9.1-ios9-15.5-armv7-arm64-signed.ipa",
+          "size": 134500000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "ScummVM is now as a source",
+      "identifier": "news_vsazn2byu9",
+      "caption": "Welcome I guess (image is from Urban Runner)",
+      "date": "2025-07-02T20:10",
+      "tintColor": "#6156e2",
+      "imageURL": "https://i.imgur.com/NCB64xo.png",
+      "notify": true,
+      "url": "no.com",
+      "appID": "org.scummvm.app"
+    }
+  ]
+}
